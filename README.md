@@ -23,6 +23,9 @@ API: CRUD API for database communication
 
 Step-by-Step Flow 
 
+
+![Flowchart](https://github.com/user-attachments/assets/7783189a-481b-47a8-b306-f3b6e1f7466b)
+
 User Input: 
 The user types a natural language request (e.g., "Find all students with grades above 90"). 
 Analyzer Agent: 
